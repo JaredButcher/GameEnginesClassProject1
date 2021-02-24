@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Misc
+*.zip
+*.docx
+webGLBuild
+windowsBuild
+webgl_sharing
+initCodeMarker
+Assets/TextMesh Pro
